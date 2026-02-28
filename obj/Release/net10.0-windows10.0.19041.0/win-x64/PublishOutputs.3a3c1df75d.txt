@@ -1,0 +1,2 @@
+C:\Ishaan\Coding\AI\Claude\C#\AutoClicker\bin\Release\net10.0-windows10.0.19041.0\win-x64\publish\AutoClicker.pdb
+C:\Ishaan\Coding\AI\Claude\C#\AutoClicker\bin\Release\net10.0-windows10.0.19041.0\win-x64\publish\AutoClicker.exe
