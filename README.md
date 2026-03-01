@@ -1,3 +1,5 @@
+![Cloudys_AutoClicker_Icon](Cloudys_AutoClicker_Icon.png)
+
 # AutoClicker
 
 > A lightweight Windows desktop auto-clicker with a clean WPF interface, configurable hotkeys, multi-location support, and INI-based configuration persistence.
