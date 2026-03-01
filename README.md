@@ -1,4 +1,6 @@
-![Cloudys_AutoClicker_Icon](Cloudys_AutoClicker_Icon.png)
+<p align="center">
+  <img src="Cloudys_AutoClicker_Icon.png" alt="Cloudys_AutoClicker_Icon" width="200">
+</p>
 
 # AutoClicker
 
