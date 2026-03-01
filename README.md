@@ -2,7 +2,7 @@
   <img src="Cloudys_AutoClicker_Icon.png" alt="Cloudys_AutoClicker_Icon" width="200">
 </p>
 
-# AutoClicker
+# Cloudy's AutoClicker
 
 > A lightweight Windows desktop auto-clicker with a clean WPF interface, configurable hotkeys, multi-location support, and INI-based configuration persistence.
 
